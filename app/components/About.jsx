@@ -24,7 +24,7 @@ var About = React.createClass({
 
     return(
       <div>
-        <h3>Email</h3>
+        <h1 className="page-title text-center">Email</h1>
         <p>Welcome to the Email page!</p>
         <div>
           {confirming()}
